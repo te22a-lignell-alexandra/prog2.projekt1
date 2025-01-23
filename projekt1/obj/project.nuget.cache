@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "mnrS88ad1I/TLQx7+bSFo3B27shSahfvy9cN2tgoeT63XyPu3/lG24bfDjK4VY2ILUBx5w4RseOkklvjJ2nSdQ==",
+  "dgSpecHash": "Q8a5Vo2P9M5+U/Y1z9gvVWdidscDW0pW7rKTbQPl/dmjUNzuI5NTipCeKqAWiJSLzEXZ0TJzSGqp/yE73G5ZVg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\alexandra.lignell\\Documents\\Filer backup\\Programmering\\C#\\prog2.projekt1\\projekt1\\projekt1.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "c:\\Users\\alexandra.lignell\\Documents\\Filer backup\\Programmering\\C#\\prog2.projekt1\\projekt1\\projekt1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alexandra.lignell\\.nuget\\packages\\raylib-cs\\7.0.0\\raylib-cs.7.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
